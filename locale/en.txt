@@ -1,0 +1,38 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = General Department of Taxation
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = GDT Tower Exterior
+
+## Media
+
+### Title
+panorama_3088B89C_3BF9_F143_41B3_A73EB241050B.label = GDT 360 View_1 - Panorama
+panorama_31947234_3BF9_914C_41B8_A23750DC213F.label = GDT 360 View_2 - Panorama
+panorama_31A7AB62_3BF9_97C4_41A8_8D65FBF569EE.label = GDT 360 View_3 - Panorama
+panorama_31AD64D9_3BF9_B2C4_41C5_F16482D996C6.label = GDT 360 View_4 - Panorama
+panorama_31B5FDE2_3BF9_B2C5_41CD_82FBE6434415.label = GDT 360 View_5 - Panorama
+panorama_31BAC7BB_3BF9_9EBB_41A2_0DF61CEFF56F.label = GDT 360 View_6 - Panorama
+panorama_31CE717A_3BF8_73C5_41B3_D2E54A3E2466.label = GDT 360 View_7 - Panorama
+panorama_31D2BB28_3BF8_7746_41A8_D74DE1A12CEF.label = GDT 360 View_8 - Panorama
+panorama_31DD7D40_3BF8_93C6_41BD_EAC224F5A42F.label = GDT 360 View_10 - Panorama
+panorama_31DD83FE_3BF8_96BB_41CC_29D038799299.label = GDT 360 View_9 - Panorama
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
